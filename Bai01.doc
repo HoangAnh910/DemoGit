@@ -1,0 +1,10 @@
+mkdir: Tao thu muc
+ -mkdir + ten thu muc
+khoi chay git: git init
+tao thu muc demo.js
+kiem tra thay doi: git status
+them nhung file da thay doi: git add
+ - git add + ten file can them
+git commit: La lenh dung de dong goi nhung file da dc them thanh mot object va tao cho cai do mot cai ID
+git commit -m ' ':  taoj chu thich
+

@@ -1,0 +1,4 @@
+git log: xem lich su commit
+git show: la xem xem noi dung cua commit
+git show + ID commit
+git diff xem thay doi cua cac file khi chua commit
