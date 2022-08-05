@@ -1,0 +1,10 @@
+1-  Log in account git hub
+2-  Click ' New repository '
+3-  Repository Name
+4-  Check Public
+5-  Click ' Create Repository '
+6-  Coppy link git
+7-  In terminal VSC : git remote add origin + link copy git
+8-  git remote -v List remote
+9-  git push -u origin master if your conect the first
+10- git push
